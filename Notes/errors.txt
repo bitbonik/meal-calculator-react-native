@@ -1,0 +1,1 @@
+1. when adding members. it is not showing in homepage. 
